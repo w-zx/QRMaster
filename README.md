@@ -4,7 +4,11 @@
 
 This repo is a QR coder-decoder with many custom options based on EmguCV (.NET version of OpenCV) and the library zxing.
 
-Here is a simple *demo*: ![](http://ww4.sinaimg.cn/mw690/a60a3287jw1f6uxpgorgaj20fw0ayq4x.jpg)
+Here is a simple *demo*:   
+
+
+
+![](http://ww4.sinaimg.cn/mw690/a60a3287jw1f6uxpgorgaj20fw0ayq4x.jpg)
 
 ## Feature
 
