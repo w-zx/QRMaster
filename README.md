@@ -18,11 +18,10 @@ Here is a simple *demo*:
 - custom logo at the center of QRcode
 - drag to decode
 - well designed GUI
-- unstable decode with emgucv
 
 ## How to use
 
-Just open it in Visual Studio (it was build on VS 2013), and build.
+First you should install EmguCV (v3.0) and copy the corresponding `.dll`s in folder `bin` into project's `debug`, and then open the project in Visual Studio (it was build on VS 2013), and build.
 
 ## Lincense
 
